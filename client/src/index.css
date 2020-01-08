@@ -1,0 +1,18 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.lighten-3 {
+    margin-right: 20px;
+}
+.card-title {
+    margin-bottom: 20px;
+}
+
+.row .card .my-color {
+    color: white;
+    border-bottom: 1px solid #ffffff;
+    box-shadow: 0 1px 0 0 #ffffff;
+}
+
+.row .card label {
+    color: #ffffff;
+}
